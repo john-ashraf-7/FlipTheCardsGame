@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/pics">
+        <file>Back.jpg</file>
+        <file>Crab.jpg</file>
+        <file>Goose.jpg</file>
+        <file>Plant.jpg</file>
+        <file>Rockjpg.jpg</file>
+        <file>Stickjpg.jpg</file>
+        <file>Controlpng.png</file>
+        <file>curor.png</file>
+        <file>3BHD.jpg</file>
+        <file>adminpng.png</file>
+        <file>Besho.jpg</file>
+        <file>John.jpg</file>
+        <file>Omar.jpg</file>
+    </qresource>
+</RCC>
